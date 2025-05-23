@@ -18,38 +18,38 @@ The complete source code for this service is also available [**HEAR**](#6-refere
 
 # **CONTENTS**
 
-[**1. TEAM**](#1-team)  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;[**1.1. MEMBERS**](#11-members)  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;[**1.2. TOOLS FOR COOPERATION**](#12-tools-for-cooperation)  <br>
+* [**1. TEAM**](#1-team)  <br>
+  * [**1.1. MEMBERS**](#11-members)  <br>
+  * [**1.2. TOOLS FOR COOPERATION**](#12-tools-for-cooperation)  <br>
 
-[**2. PROJECT INFO.**](#2-project-info)  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;[**2.1. PROJECT NAME**](#21-project-name)  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;[**2.2. PROJECT ICON**](#22-project-icon)  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;[**2.3. PROJECT OVERVIEW**](#23-project-overview)  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**2.3.1 BACKGROUND**](#231-background)  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**2.3.2 SERVICE TARGET**](#232-service-target)  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**2.3.3 BENEFITS**](#233-benefits)  <br>
+* [**2. PROJECT INFO.**](#2-project-info)  <br>
+  * [**2.1. PROJECT NAME**](#21-project-name)  <br>
+  * [**2.2. PROJECT ICON**](#22-project-icon)  <br>
+  * [**2.3. PROJECT OVERVIEW**](#23-project-overview)  <br>
+    * [**2.3.1 BACKGROUND**](#231-background)  <br>
+    * [**2.3.2 SERVICE TARGET**](#232-service-target)  <br>
+    * [**2.3.3 BENEFITS**](#233-benefits)  <br>
 
-[**3. REQUIREMENTS SPECIFICATION**](#3-requirements-specification)  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;[**3.1. KEY FEATURES**](#31-key-features)  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**3.1.1. PURPOSE AND IMPLEMENTATION**](#311-purpose-and-implementation)  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**3.1.2. INPUT/OUTPUT AND EXCEPTION HANDLING**](#312-inputoutput-and-exception-handling)  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;[**3.2. EXTENSION**](#32-extension)  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**3.2.1. PURPOSE AND IMPLEMENTATION**](#321-purpose-and-implementation)  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**3.2.2. INPUT/OUTPUT AND EXCEPTION HANDLING**](#322-inputoutput-and-exception-handling)  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;[**3.3. ERD (Entity-Relationship Diagram)**](#33-erd-entity-relationship-diagram)  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;[**3.4. UX/UI (WIREFRAME)**](#34-uxui-wireframe)  <br>
+* [**3. REQUIREMENTS SPECIFICATION**](#3-requirements-specification)  <br>
+  * [**3.1. KEY FEATURES**](#31-key-features)  <br>
+    * [**3.1.1. PURPOSE AND IMPLEMENTATION**](#311-purpose-and-implementation)  <br>
+    * [**3.1.2. INPUT/OUTPUT AND EXCEPTION HANDLING**](#312-inputoutput-and-exception-handling)  <br>
+  * [**3.2. EXTENSION**](#32-extension)  <br>
+    * [**3.2.1. PURPOSE AND IMPLEMENTATION**](#321-purpose-and-implementation)  <br>
+    * [**3.2.2. INPUT/OUTPUT AND EXCEPTION HANDLING**](#322-inputoutput-and-exception-handling)  <br>
+  * [**3.3. ERD (Entity-Relationship Diagram)**](#33-erd-entity-relationship-diagram)  <br>
+  * [**3.4. UX/UI (WIREFRAME)**](#34-uxui-wireframe)  <br>
 
-[**4. DEVELOPMENT STRATEGY**](#4-development-strategy)  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;[**4.1. DEVELOPMENT METHODOLOGY & TASK ALLOCATION**](#41-development-methodology--task-allocation)  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;[**4.2. SCHEDULE (MILESTONE)**](#42-schedule-milestone)  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;[**4.3. TESTING PLAN**](#43-testing-plan)  <br>
+* [**4. DEVELOPMENT STRATEGY**](#4-development-strategy)  <br>
+  * [**4.1. DEVELOPMENT METHODOLOGY & TASK ALLOCATION**](#41-development-methodology--task-allocation)  <br>
+  * [**4.2. SCHEDULE (MILESTONE)**](#42-schedule-milestone)  <br>
+  * [**4.3. TESTING PLAN**](#43-testing-plan)  <br>
 
-[**5. RISK ASSESSMENT & MITIGATION**](#5-risk-assessment--mitigation)  <br>
+* [**5. RISK ASSESSMENT & MITIGATION**](#5-risk-assessment--mitigation)  <br>
 
-[**6. REFERENCES & TERMS**](#6-references--terms)  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;[**6.1 REFERENCES**](#61-references)  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;[**6.2 TERMS**](#62-terms)  <br>
+* [**6. REFERENCES & TERMS**](#6-references--terms)  <br>
+  * [**6.1 REFERENCES**](#61-references)  <br>
+  * [**6.2 TERMS**](#62-terms)  <br>
 
 <br>
 
