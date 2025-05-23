@@ -10,8 +10,11 @@
 
 <br>
 
-You can find a basic tutorial on how to use this service in the [**USER GUIDE**](#6-references--terms) and how to develop this service in the [**DEVELOPER GUIDE**](#6-references--terms). <br>
+## **Getting Started**
+Basic tutorials for using and developing the service can be found in the [**USER GUIDE**](#6-references--terms) and [**DEVELOPER GUIDE**](#6-references--terms), respectively. 
 The complete source code for this service is also available [**HEAR**](#6-references--terms). <br>
+
+<br>
 
 # **CONTENTS**
 
@@ -115,6 +118,17 @@ The complete source code for this service is also available [**HEAR**](#6-refere
 
 **C) 평소 집에서 요리하는 것을 즐기는 사람**
 - “지금 내 냉장고에 있는 재료로 무엇을 만들 수 있을까?”라는 고민이 많다.
+
+<br>
+
+### 2.3.3 BENEFITS
+**A) 식재료 관리 편의성 증가**
+- OCR 기반 자동 입력 기능을 통해, 사용자는 더 이상 냉장고 재고를 하나부터 열까지 모두 수동으로 입력할 필요가 없다.
+- 잘못된 OCR 추출 결과도 사용자가 직접 수정할 수 있도록 UI를 제공한다. 
+
+**B) 식재료 낭비 방지 및 환경 보호 효과**
+- 단순한 재고 기록 기능을 넘어, 실질적인 식재료 소비 유도
+- 사용자가 보유 중인 재고를 기반으로 AI 레시피 추천 기능(GPT API)을 제공하여, 불필요한 폐기를 줄이고 식재료를 낭비 없이 효율적으로 활용하도록 돕는다.
 
 <br>
 
