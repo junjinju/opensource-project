@@ -10,6 +10,9 @@
 
 <br>
 
+You can find a basic tutorial on how to use this service in the [**USER GUIDE**](#6-references--terms) and how to develop this service in the [**DEVELOPER GUIDE**](#6-references--terms). <br>
+The complete source code for this service is also available [**HEAR**](#6-references--terms). <br>
+
 # **CONTENTS**
 
 [**1. TEAM**](#1-team)  <br>
