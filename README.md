@@ -11,8 +11,8 @@
 <br>
 
 ## **Getting Started**
-Basic tutorials for using and developing the service can be found in the [**USER GUIDE**](#6-references--terms) and [**DEVELOPER GUIDE**](#6-references--terms), respectively. 
-The complete source code for this service is also available [**HEAR**](#6-references--terms). <br>
+Basic tutorials for using and developing the service can be found in the [**USER GUIDE**](user-guide.md) and [**DEVELOPER GUIDE**](developer-guide.md), respectively. 
+The complete source code for this service is also available [**HEAR**](./source-code). <br>
 
 <br>
 
