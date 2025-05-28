@@ -1,0 +1,28 @@
+{
+  "account": {
+    "title": "계정 관리",
+    "subtitle": "계정 설정과 환경을 관리하세요",
+    "personalInfo": "개인 정보",
+    "name": "이름",
+    "namePlaceholder": "이름을 입력하세요",
+    "email": "이메일",
+    "emailPlaceholder": "이메일 주소",
+    "phone": "전화번호",
+    "phonePlaceholder": "+82 10 1234 5678",
+    "language": "언어",
+    "english": "영어",
+    "korean": "한국어",
+    "connectAccounts": "계정 연동",
+    "connectGoogle": "구글 계정으로 연동",
+    "connectFacebook": "페이스북 계정으로 연동",
+    "connectApple": "애플 계정으로 연동",
+    "security": "비밀번호 및 보안",
+    "changePassword": "비밀번호 변경",
+    "twoFactor": "2단계 인증 설정",
+    "preferences": "환경 설정",
+    "emailNotifs": "이메일 알림",
+    "smsNotifs": "SMS 알림",
+    "save": "저장",
+    "cancel": "취소"
+  }
+}

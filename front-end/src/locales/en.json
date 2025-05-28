@@ -1,0 +1,28 @@
+{
+  "account": {
+    "title": "Account Management",
+    "subtitle": "Manage your account settings and preferences",
+    "personalInfo": "Personal Information",
+    "name": "Full Name",
+    "namePlaceholder": "Your name",
+    "email": "Email",
+    "emailPlaceholder": "Your Email Address",
+    "phone": "Phone Number",
+    "phonePlaceholder": "+1 234 567 890",
+    "language": "Language",
+    "english": "English",
+    "korean": "Korean",
+    "connectAccounts": "Connect Accounts",
+    "connectGoogle": "Connect with Google",
+    "connectFacebook": "Connect with Facebook",
+    "connectApple": "Connect with Apple",
+    "security": "Password & Security",
+    "changePassword": "Change Password",
+    "twoFactor": "Two-Factor Authentication",
+    "preferences": "Preferences",
+    "emailNotifs": "Email Notifications",
+    "smsNotifs": "SMS Notifications",
+    "save": "Save Changes",
+    "cancel": "Cancel"
+  }
+}
