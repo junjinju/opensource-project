@@ -283,7 +283,6 @@ Spring Boot 프로젝트에서 사용하는 application.properties 파일에는 
   </tr>
   </table>
 
----
 
 - 로그인
     <td><img src="./images/curl_signin_request.png"></td>
@@ -302,8 +301,6 @@ Spring Boot 프로젝트에서 사용하는 application.properties 파일에는 
   </tr>
   </table>
 
----
-
 <br>
 
 ### 3. OCR 품목 결과 조회
@@ -317,8 +314,6 @@ Spring Boot 프로젝트에서 사용하는 application.properties 파일에는 
     <td align="center">DB 반영 결과</td>
   </tr>
   </table>
-
----
 
 <br>
 
@@ -334,8 +329,6 @@ Spring Boot 프로젝트에서 사용하는 application.properties 파일에는 
     <td align="center">DB 반영 결과</td>
   </tr>
   </table>
-
----
 
 <br>
 
@@ -357,8 +350,6 @@ Spring Boot 프로젝트에서 사용하는 application.properties 파일에는 
   </tr>
   </table>
 
----
-
 <br>
 
 - 인벤토리 삭제
@@ -372,8 +363,6 @@ Spring Boot 프로젝트에서 사용하는 application.properties 파일에는 
     <td align="center">DB 반영 결과</td>
   </tr>
   </table>
-
----
 
 <br>
 
@@ -389,8 +378,6 @@ Spring Boot 프로젝트에서 사용하는 application.properties 파일에는 
     <td align="center">DB 반영 결과</td>
   </tr>
   </table>
-
----
 
 <br>
 
@@ -412,8 +399,6 @@ Spring Boot 프로젝트에서 사용하는 application.properties 파일에는 
   </tr>
   </table>
 
----
-
 <br>
 
 - 물품 삭제
@@ -427,8 +412,6 @@ Spring Boot 프로젝트에서 사용하는 application.properties 파일에는 
     <td align="center">DB 반영 결과</td>
   </tr>
   </table>
-
----
 
 <br>
 
@@ -445,8 +428,6 @@ Spring Boot 프로젝트에서 사용하는 application.properties 파일에는 
   </tr>
   </table>
 
----
-
 <br>
 
 - 레시피 목록 조회
@@ -460,8 +441,6 @@ Spring Boot 프로젝트에서 사용하는 application.properties 파일에는 
     <td align="center">DB 반영 결과</td>
   </tr>
   </table>
-
----
 
 <br>
 
@@ -482,7 +461,5 @@ Spring Boot 프로젝트에서 사용하는 application.properties 파일에는 
     <td align="center">DB 반영 결과</td>
   </tr>
   </table>
-
----
 
 <br>
