@@ -78,8 +78,13 @@ sudo systemctl enable mysql
 ## 3. 프론트엔드 실행
 <pre>
 <code>
+# 작업 디렉토리 이동
 $ cd opensource-project/source-code/front-end
+
+# 필요한 모듈들 설치
 $ npm install
+
+# 개발 서버 실행
 $ npm run dev
 </code>
 </pre>
@@ -89,12 +94,15 @@ $ npm run dev
 ## 4. 백엔드 실행
 <pre>
 <code>
+# 작업 디렉토리 이동
 $ cd opensource-project/source-code/backend
+
 # 빌드
 $ ./gradlew bootJar
 
 # 포어그라운드 실행
 $ java -jar build/libs/backend-0.0.1-SNAPSHOT.jar 
+
 # 또는 백그라운드 실행
 $ nohup java -jar build/libs/backend-0.0.1-SNAPSHOT.jar > backend.log 2>&1 & 
 </code>
