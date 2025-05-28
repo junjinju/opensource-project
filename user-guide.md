@@ -39,10 +39,11 @@
 <br>
 
 ## 1. 프로젝트 다운로드
-<pre><code>```bash
-git clone https://github.com/junjinju/opensource-project.git
-```</code></pre>
-
+<pre>
+<code>
+$ git clone https://github.com/junjinju/opensource-project.git
+</code>
+</pre>
 
 <br>
 
@@ -52,21 +53,53 @@ git clone https://github.com/junjinju/opensource-project.git
 - MySQL 8.0 이상
 - Git
 
-명령어
+<pre>
+<code>
+# Git 설치
+sudo apt update
+sudo apt install git -y
+
+# Node.js 18.x 설치
+curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+sudo apt install -y nodejs
+
+# Java 17 설치 (OpenJDK)
+sudo apt install openjdk-17-jdk -y
+
+# MySQL 8.0 설치
+sudo apt install mysql-server -y
+sudo systemctl start mysql
+sudo systemctl enable mysql
+</code>
+</pre>
 
 <br>
 
 ## 3. 프론트엔드 실행
-cd 프론트 폴더
-npm install
-npm run dev
+<pre>
+<code>
+$ cd opensource-project/source-code/front-end
+$ npm install
+$ npm run dev
+</code>
+</pre>
 
 <br>
 
 ## 4. 백엔드 실행
-cd 프론트 폴더
-npm install
-npm run dev
+<pre>
+<code>
+$ cd opensource-project/source-code/backend
+# 빌드
+$ ./gradlew bootJar
+
+# 포어그라운드 실행
+$ java -jar build/libs/backend-0.0.1-SNAPSHOT.jar 
+# 또는 백그라운드 실행
+$ nohup java -jar build/libs/backend-0.0.1-SNAPSHOT.jar > backend.log 2>&1 & 
+</code>
+</pre>
+
 
 <br>
 
