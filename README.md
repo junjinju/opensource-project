@@ -14,6 +14,9 @@
 Basic tutorials for using and developing the service can be found in the [**USER GUIDE**](user-guide.md) and [**DEVELOPER GUIDE**](developer-guide.md), respectively. 
 The complete source code for this service is also available [**HEAR**](./source-code). <br>
 
+## Final Report
+The following content is based on the project proposal and may differ from the actual implementation. For accurate details, please refer to [**the final report**](oss-basic-final-report.pdf).
+
 <br>
 
 # **CONTENTS**
@@ -92,7 +95,7 @@ The complete source code for this service is also available [**HEAR**](./source-
 
 ### **2.3.1 BACKGROUND**
 
-현대 사회에서는 **식재료 낭비와 가정 내 음식물 쓰레기**가 중요한 사회적 문제로 인식되고 있다. 특히 냉장고 속에 어떤 재료가 있는지 잊고, 유통기한이 지난 식재료를 폐기하는 일이 흔하며 이는 가계의 불필요한 지출로 이어지게 된다. 서울특별시에 따르면, 한국 가정에서 발생하는 음식물 쓰레기 중 약 **34%**가 유통기한 경과 식재료에서 발생하며, **연간 약 1조 원 이상의 음식물 쓰레기 처리 비용이 지출**되고 있다. 또한 식재료를 직접 관리하지 않고 방치하는 것은 **탄소배출 증가**와 **자원 낭비**로 이어져, 결국 환경 문제에도 영향을 미치게 된다.
+현대 사회에서는 **식재료 낭비와 가정 내 음식물 쓰레기**가 중요한 사회적 문제로 인식되고 있다. 특히 냉장고 속에 어떤 재료가 있는지 잊고, 유통기한이 지난 식재료를 폐기하는 일이 흔하며 이는 가계의 불필요한 지출로 이어지게 된다. 서울특별시에 따르면, 한국 가정에서 발생하는 음식물 쓰레기 중 약 34%가 유통기한 경과 식재료에서 발생하며, **연간 약 1조 원 이상의 음식물 쓰레기 처리 비용이 지출**되고 있다. 또한 식재료를 직접 관리하지 않고 방치하는 것은 **탄소배출 증가**와 **자원 낭비**로 이어져, 결국 환경 문제에도 영향을 미치게 된다.
 
 기존의 재고 관리 앱은 대부분 **식재료를 수동으로 등록**해야 하며, 이 과정이 번거로워 장기 사용이 어렵다는 피드백이 많다. 이를 해결하기 위해 본 프로젝트에서는 **OCR (Optical Character Recognition)** 기술을 활용하여 **영수증 사진 한 장으로 식재료 정보를 자동으로 인식·입력**하는 방식을 도입할 예정이다. 또한, 단순 재고 관리에 그치지 않고, **보유 식재료 기반의 레시피 추천(GPT API)** 기능을 제공하여 일상에서 실질적으로 도움이 되는 서비스를 통합적으로 제공할 계획이다.
 
