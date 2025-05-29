@@ -57,18 +57,19 @@ The following content is based on the project proposal and may differ from the a
 <br>
 
 # **1. TEAM**
+ 본 장에서는 프로젝트 수행을 위해 구성된 팀의 `역할 분담`과 `협업 방식`에 대해 간략히 소개한다.
 
 ## **1.1. MEMBERS**
-
+ 본 프로젝트는 총 4명의 팀원으로 구성되어 있으며, 크게 `프로젝트 매니저(PM)`, `UX/UI 디자인 및 프론트엔드(FE) 개발`, `데이터베이스 설계 및 백엔드(BE) 개발`로 업무를 나누어 담당하였다.
 | **Name**   | **Position**                           |
 |------------|----------------------------------------|
-| **곽태훈**     | UX/UI Design & Front-end (FE)         |
-| **이예권**     | UX/UI Design & Front-end (FE)         |
-| **하경준**     | PM & Back-end (BE)                    |
-| **한승진**     | Database Design & Back-end (BE)       |
+| **곽태훈**     | UX/UI Design & Frontend (FE)         |
+| **이예권**     | UX/UI Design & Frontend (FE)         |
+| **하경준**     | PM & Backend (BE)                    |
+| **한승진**     | Database Design & Backend (BE)       |
 
 ## **1.2. TOOLS FOR COOPERATION**
-
+팀은 `FIGMA`를 통해 와이어프레임 및 사용자 인터페이스(UI) 설계를 공유하고 상호 피드백을 통해 프로젝트 기간동안 지속적으로 개선하였다. 또한 전체 소스코드 및 문서를 공유하고 통합 관리하기 위한 목적으로 `GITHUB`를 활용하였다.
 | **Tool**   | **Purpose**                                                  |
 |------------|---------------------------------------------------------------|
 | **FIGMA**     | Sharing UX/UI designs and wireframes                          |
@@ -95,9 +96,9 @@ The following content is based on the project proposal and may differ from the a
 
 ### **2.3.1 BACKGROUND**
 
-현대 사회에서는 **식재료 낭비와 가정 내 음식물 쓰레기**가 중요한 사회적 문제로 인식되고 있다. 특히 냉장고 속에 어떤 재료가 있는지 잊고, 유통기한이 지난 식재료를 폐기하는 일이 흔하며 이는 가계의 불필요한 지출로 이어지게 된다. 서울특별시에 따르면, 한국 가정에서 발생하는 음식물 쓰레기 중 약 34%가 유통기한 경과 식재료에서 발생하며, **연간 약 1조 원 이상의 음식물 쓰레기 처리 비용이 지출**되고 있다. 또한 식재료를 직접 관리하지 않고 방치하는 것은 **탄소배출 증가**와 **자원 낭비**로 이어져, 결국 환경 문제에도 영향을 미치게 된다.
+현대 사회에서는 `식재료 낭비와 가정 내 음식물 쓰레기`가 중요한 사회적 문제로 인식되고 있다. 특히 냉장고 속에 어떤 재료가 있는지 잊고, 유통기한이 지난 식재료를 폐기하는 일이 흔하며 이는 가계의 불필요한 지출로 이어지게 된다. 서울특별시에 따르면, 한국 가정에서 발생하는 음식물 쓰레기 중 약 34%가 유통기한 경과 식재료에서 발생하며, `연간 약 1조 원 이상의 음식물 쓰레기 처리 비용이 지출`되고 있다. 또한 식재료를 직접 관리하지 않고 방치하는 것은 `탄소배출 증가`와 `자원 낭비`로 이어져, 결국 환경 문제에도 영향을 미치게 된다.
 
-기존의 재고 관리 앱은 대부분 **식재료를 수동으로 등록**해야 하며, 이 과정이 번거로워 장기 사용이 어렵다는 피드백이 많다. 이를 해결하기 위해 본 프로젝트에서는 **OCR (Optical Character Recognition)** 기술을 활용하여 **영수증 사진 한 장으로 식재료 정보를 자동으로 인식·입력**하는 방식을 도입할 예정이다. 또한, 단순 재고 관리에 그치지 않고, **보유 식재료 기반의 레시피 추천(GPT API)** 기능을 제공하여 일상에서 실질적으로 도움이 되는 서비스를 통합적으로 제공할 계획이다.
+기존의 재고 관리 앱은 대부분 **식재료를 수동으로 등록**해야 하며, 이 과정이 번거로워 장기 사용이 어렵다는 피드백이 많다. 이를 해결하기 위해 본 프로젝트에서는 `OCR (Optical Character Recognition)` 기술을 활용하여 **영수증 사진 한 장으로 식재료 정보를 자동으로 인식·입력**하는 방식을 도입할 예정이다. 또한, 단순 재고 관리에 그치지 않고, `보유 식재료 기반의 레시피 추천(GPT API)` 기능을 제공하여 일상에서 실질적으로 도움이 되는 서비스를 통합적으로 제공할 계획이다.
 
 <p align="center">
   <img src="media/image2.png" alt="음식물 쓰레기 발생 원인 비율" width="50%"><br>
@@ -266,17 +267,21 @@ The following content is based on the project proposal and may differ from the a
 
 ## **6.1 REFERENCES**
 
-\[1\] 서울특별시. (n.d.). *서울시 음식물류 폐기물 발생량 및 처리현황
-통계.* 서울 열린데이터광장. 
+\[1\] 서울특별시. (n.d.). 서울시 음식물류 폐기물 발생량 및 처리현황 통계. 서울 열린데이터광장. 
 
-\[2\] 환경부, & 한국환경공단. (2023). *전국 폐기물 발생 및 처리 현황.*
+\[2\] 환경부, & 한국환경공단. (2023). 전국 폐기물 발생 및 처리 현황.
 
-\[3\] 오순도순. (2023, November 30). *\[OCR/AI\] 2023년 최신판 OCR 8가지
-API 비교평가 테스트.* DevOcean.
-https://devocean.sk.com/blog/techBoardDetail.do?ID=165524&boardType=techBlog
+\[3\] 오순도순. (2023, November 30). [OCR/AI] 2023년 최신판 OCR 8가지 API 비교평가 테스트.  
+DevOcean. https://devocean.sk.com/blog/techBoardDetail.do?ID=165524&boardType=techBlog
 
-\[4\] OpenAI. (n.d.). *Text generation and prompting*. OpenAI Platform.
+\[4\] OpenAI. (n.d.). Text generation and prompting. OpenAI Platform. 
 https://platform.openai.com/docs/guides/text?api-mode=chat
+
+\[5\] 유통기한 언제지. http://ourneeds.co.kr/
+
+\[6\] seyeon-shijuan. (n.d.). 냉장고를 부탁해. Github. https://github.com/MultiNDjango/ndjango-
+django
+
 
 ## **6.2 TERMS**
 
@@ -294,3 +299,33 @@ https://platform.openai.com/docs/guides/text?api-mode=chat
 
 - 본 프로젝트에서는 OCR 기반 재고 등록, 재고 확인, 기본 계정 기능이
   포함된 버전이 해당
+
+
+**Identifying / Non-identifying**
+
+- 테이블 간 관계를 의미한다.
+
+- 비식별 관계는 자식 테이블이 독립적인 기본키를 갖고 부모 테이블과 느슨하게 연결되는 방식으로, 연결된 다른 테이블에 의해 기본키가 종속되지 않고 독립적으로 관리된다.
+
+- 반면, 식별 관계는 자식 테이블의 존재가 부모 테이블에 종속되는 경우이다.
+
+**RESTful API**
+
+- 리소스를 URI로 표현하고, HTTP 메서드(GET, POST, PUT, DELETE 등)를 통해 CRUD 작업을 수행하는 웹 아키텍처 스타일이다.
+
+**Firebase**
+
+- Google에서 제공하는 클라우드 기반 플랫폼으로, 업로드된 영수증 이미지를 URL 형식으로 저장한다.
+
+**CLOVA OCR API**
+
+- 네이버에서 제공하는 OCR API 서비스로, 이미지 내 한글 텍스트 인식에 최적화되어 있다.
+
+**JWT 토큰 (JSON Web Token)**
+
+- 사용자 인증을 위해 사용되는 토큰 기반 인증 방식으로, 로그인 시 클라이언트에 JWT를 발급하며 이후 모든 요청에 대해 해당 토큰을 사용하여 인증을 수행한다.
+
+
+
+
+
